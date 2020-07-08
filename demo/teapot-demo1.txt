@@ -1,0 +1,2 @@
+L 1.0 1.0 1.0 falloff 1/d
+all object reflective index ka/2
